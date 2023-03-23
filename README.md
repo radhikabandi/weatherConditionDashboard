@@ -4,7 +4,7 @@ weatherConditionDashboard app will provide the current day weather details and w
 app using API- https://api.openweathermap.org
 
 Repo link-
-https://github.com/radhikabandi/weatherConditionDashboard
+ https://github.com/radhikabandi/weatherConditionDashboard
 
 live at-
 https://radhikabandi.github.io/weatherConditionDashboard/
